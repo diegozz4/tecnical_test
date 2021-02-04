@@ -3,7 +3,10 @@
 // The list of file replacements can be found in `angular.json`.
 
 export const environment = {
-  production: false
+  production: false,
+  apiUrl: 'https://imaginecx--tst2.custhelp.com/services/rest/connect/v1.3/',
+  username: 'ICXCandidate',
+  password: 'Welcome2021'
 };
 
 /*

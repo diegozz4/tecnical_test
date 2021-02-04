@@ -1,0 +1,7 @@
+{
+  "/services/rest/connect/v1.3/*": {
+    "target": "https://imaginecx--tst2.custhelp.com",
+    "changeOrigin": true,
+    "secure": false
+  }
+}
